@@ -1,0 +1,39 @@
+body{
+	background-color: lightblue;
+}
+
+img{
+			max-width: 15%;
+			height: auto;
+			width: auto\9;
+			
+		}
+
+.bannerImg{
+	max-width: 40%;
+	top: 50%;
+	left: 50%;
+	height: auto;
+	width: auto\9;
+
+}
+
+div{
+	width: 15em;
+	border: 1px solid #333;
+	padding: 12px 12px;
+	background-image: linear-gradient(90deg, #fff, #ddd, #ccc);
+}
+
+h1,h2,h3,h4,h5,h6{
+	color: green;
+	font-weight: bold;
+	font-family: "Verdana" , "sans-serif";
+}
+p{
+	font-family: "Georgia" , "serif";
+}
+	
+#theBanlist{
+color: red;
+}
